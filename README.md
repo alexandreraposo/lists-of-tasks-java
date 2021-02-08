@@ -1,3 +1,4 @@
+# lists-of-tasks-java-version-2
 This project is a second version of my task list application using Java language, with the aim of transforming the previous project into methods.
 New menus and new features have also been added, making it possible to create several task lists and much more.
 
@@ -36,5 +37,10 @@ Application Features:
      - Copy tasks from position "m" to "n"
      - Cut tasks from position "m" to "n"
      - Insert from memory in position "n"
-     
+
+# How to test
+- Clone this repository
+- Open this project in your Eclipse IDE;
+- Run it
+
 The project was created by Alexandre Raposo and was developed in portuguese.
