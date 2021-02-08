@@ -13,7 +13,7 @@ Application Features:
      - Delete list
 2. View List Menu
      - View all tasks
-     - view tasks on "d" day
+     - View tasks on "d" day
      - View tasks until "d" day
      - View tasks to do
      - View done tasks
