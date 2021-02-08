@@ -22,6 +22,7 @@ Application Features:
      - Mark task as done by number
      - Mark task as done by text
      - Deselect last task done
+     - Mark all tasks on "d" day
 4. Edit Menu
      - Add task
      - Add task in position "n"
