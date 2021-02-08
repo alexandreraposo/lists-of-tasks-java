@@ -1,6 +1,6 @@
 # lists-of-tasks-java-version-2
 This project is a second version of my task list application using Java language, with the aim of transforming the previous project into methods.
-New menus and new features have also been added, making it possible to create several task lists and much more.
+New menus and new functionalities have also been added, making it possible to create several task lists and much more.
 
 Main Objectives:
 - Methods
